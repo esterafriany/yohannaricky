@@ -449,18 +449,6 @@ if (!$conn) {
 	<div class="fh5co-loader"></div>
 
 	<div id="page" class="page">
-		<nav class="fh5co-nav" role="navigation">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-2">
-
-					</div>
-					
-				</div>
-
-			</div>
-		</nav>
-
 		<header id="fh5co-header" class="fh5co-cover" role="banner" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
@@ -506,7 +494,7 @@ if (!$conn) {
 				<div class="couple-wrap animate-box">
 					<div class="couple-half">
 						<div class="groom">
-							<img src="images/groom.jpg" alt="groom" class="img-responsive">
+							<img src="images/groom.png" alt="groom" class="img-responsive">
 						</div>
 						<div class="desc-groom">
 							<h3>Ricky Zulkarnaen Sianturi</h3>
@@ -516,7 +504,7 @@ if (!$conn) {
 					<p class="heart text-center"><i class="icon-heart2"></i></p>
 					<div class="couple-half">
 						<div class="bride">
-							<img src="images/bride.jpg" alt="groom" class="img-responsive">
+							<img src="images/bride.png" alt="groom" class="img-responsive">
 						</div>
 						<div class="desc-bride">
 							<h3>Yohanna Putri A. Siburian</h3>
@@ -529,15 +517,19 @@ if (!$conn) {
 
                     <div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-					<br/>	
-					<br/>	
-					<br/>	
-                    Kami ingin merasakan kasih-Mu dalam rumah tangga kami, ya Tuhan. Kami ingin api cinta Kristus-Mu mengalir selalu pada darah dan nadi jiwa kami. Agar kami selalu menjadi keluarga yang harmonis. Dalam nama Kristus, sang Juruselamat, kami berdoa. Amin
+						
+					
 
                     </div>
 				</div>
 				</div>
-                
+        
+				<br/>	
+					<br/>	
+					<br/>
+				<div class="well well-large">
+				<p><center>Kami ingin merasakan kasih-Mu dalam rumah tangga kami, ya Tuhan. Kami ingin api cinta Kristus-Mu mengalir selalu pada darah dan nadi jiwa kami. Agar kami selalu menjadi keluarga yang harmonis. Dalam nama Kristus, sang Juruselamat, kami berdoa. <br/>Amin</center>
+  				</div>
 			</div>
             
 		</div>
@@ -658,8 +650,7 @@ if (!$conn) {
 										<p>Home</p>
 										<br>
 										<span id="address" style="font-size:12px;margin-top:-20px;"><b>Penerima :</b>
-											Yohanna Simatupang <br> <b>No HP :</b> 0853 9794 2801 <br> Jl. Naipospos Lorong
-											I No. 03, Kec. Sipoholon, Kab. Tapanuli Utara, Sumatera Utara.</span>
+											Yohanna Simatupang <br> <b>No HP :</b> 0853 9794 2801 <br> Jl. Seriti II, Gg. Amal, Kisaran Timur Kota, Kab. Asahan, Sumatera Utara</span>
 										<button id="btnaddress" onclick="copyToClipboard('#address')" class="btn btn-xs"
 											style="font-size: 12px; padding: 5px;">Copy</button>
 									</div>
@@ -764,11 +755,9 @@ if (!$conn) {
 											<figure>
 												<img src="images/wishes.png" alt="user">
 											</figure>
-											<span>No Name, @ <a href="#" class="twitter">noname</a></span>
+											<span>Ester, @ <a href="#" class="twitter">esterafriany</a></span>
 											<blockquote>
-												<p>"Far far away, behind the word mountains, far from the countries
-													Vokalia and Consonantia, there live the blind texts. Separated they
-													live in Bookmarksgrove right at the coast of the Semantics"</p>
+												<p>"Semoga Tuhan memberkati.."</p>
 											</blockquote>
 										</div>
 									</div>
@@ -779,9 +768,7 @@ if (!$conn) {
 											</figure>
 											<span>No Name, @ <a href="#" class="twitter">noname</a></span>
 											<blockquote>
-												<p>"Far far away, behind the word mountains, far from the countries
-													Vokalia and Consonantia, at the coast of the Semantics, a large
-													language ocean."</p>
+												<p>"Happy for your family."</p>
 											</blockquote>
 										</div>
 									</div>
@@ -792,9 +779,7 @@ if (!$conn) {
 											</figure>
 											<span>No Name, @ <a href="#" class="twitter">noname</a></span>
 											<blockquote>
-												<p>"Far far away, far from the countries Vokalia and Consonantia, there
-													live the blind texts. Separated they live in Bookmarksgrove right at
-													the coast of the Semantics, a large language ocean."</p>
+												<p>"God bless."</p>
 											</blockquote>
 										</div>
 									</div>
