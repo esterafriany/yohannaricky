@@ -633,7 +633,7 @@ if (!$conn) {
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 						<span>You Can Support Us With</span>
-						<h2 class="fontsignature">Wedding Gift</h2>
+						<h2 class="fontsignature">Gift</h2>
 						<!-- <h6 class="" style="color:#fff; font-size: 13px;margin-bottom: 0;">Apabila Bapak/Ibu/Saudara/i
 							ingin berbagi kebahagian bersama kami dengan mengirimkan wedding gift, tanpa mengurangi rasa
 							hormat, berikut informasi yang dapat kami berikan</h6> -->
@@ -679,9 +679,9 @@ if (!$conn) {
 								<div class="col-md-4 col-sm-6 text-center">
 									<div class="event-wrap animate-box">
 										<h3>Digital Wallet</h3>
-										<img src="./images/qris/contohqrisnya.png" alt="" style="height: 170px;">
+										<img src="./images/qris/dana.jpg" alt="" style="height: 170px;">
 										<p>0853 9794 2801</p>
-										<span style="font-size:12px;margin-top:-20px;">OVO a.n Yohanna Putri Simatupang</span>
+										<span style="font-size:12px;margin-top:-20px;">Dana a.n Yohanna Putri Simatupang</span>
 									
 								
 									</div>
